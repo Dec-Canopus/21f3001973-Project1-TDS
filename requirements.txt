@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pillow
+beautifulsoup4
+requests
+python-dotenv
+chromadb
+torch
+transformers
+python-multipart
+markdown
